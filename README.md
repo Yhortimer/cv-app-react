@@ -1,3 +1,14 @@
+# Short description
+
+## **cv-app-react** is a Bootstrap resume or CV landing page theme to help you beautifully create easy to use, stylish resume websites!
+
+<br>
+
+# Features
+
+- ### A fixed side navigation with scrolling page anchors
+- ### Resume sections to feature work experience, education, skills, and more!
+
 # Easy start
 
 ## To start working with this app just type in your CLI
