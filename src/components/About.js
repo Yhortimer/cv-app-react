@@ -12,7 +12,7 @@ export default class About extends Component {
             </h1>
             <div className="subheading mb-5">
               Lviv +38(066)0448891
-              <a href="mailto:name@email.com"> igorhryplyvyy@gmai.com</a>
+              <a href="mailto:name@email.com"> igorhryplyvyy@gmail.com</a>
             </div>
             <p className="lead mb-5">
               Result-oriented quality assurance engineer with 2+ years of
