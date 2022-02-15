@@ -11,8 +11,8 @@ export default class About extends Component {
               <span className="text-primary">Ihor</span>
             </h1>
             <div className="subheading mb-5">
-              City +38(066)000000
-              <a href="mailto:name@email.com"> username@gmail.com</a>
+              Lviv +38(066)0448891
+              <a href="mailto:name@email.com">igorhryplyvyy@gmail.com</a>
             </div>
             <p className="lead mb-5">
               Result-oriented quality assurance engineer with 2+ years of
