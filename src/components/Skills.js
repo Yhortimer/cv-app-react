@@ -18,6 +18,9 @@ export default class Skills extends Component {
                 <i className="fab fa-js-square" />
               </li>
               <li className="list-inline-item">
+                <i className="fab fa-bootstrap" />
+              </li>
+              <li className="list-inline-item">
                 <i className="fab fa-react" />
               </li>
               <li className="list-inline-item">
